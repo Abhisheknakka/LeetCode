@@ -1,6 +1,7 @@
 class Solution(object):
   def twoSum(self, n, target):
     print("This code is quite confusing bro!")
+     print("No No nO nO!")
     """
     :type nums: List[int]
     :type target: int
